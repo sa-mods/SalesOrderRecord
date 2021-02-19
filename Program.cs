@@ -80,7 +80,7 @@ namespace OrdemDeVenda
                 //Volta para início
                 Console.Write(@"Para cadastrar outra Ordem de Venda aperte [1] 
 Para visualizar as quantidades de material aperte [2]
-Para sair perte [0]: 
+Para sair aperte [0]: 
 ");
                 var decisao2 = Console.ReadLine();
                 // Sair
@@ -107,7 +107,7 @@ Para sair perte [0]:
                 }
                 //Volta para início
                 Console.Write(@"Para cadastrar outra Ordem de Venda aperte [1] 
-Para sair perte [0]: 
+Para sair aperte [0]: 
 ");
                 decisao2 = Console.ReadLine();
                 // Sair
